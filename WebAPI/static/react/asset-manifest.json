@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/react/static/css/main.86f14db1.chunk.css",
+    "main.js": "/static/react/static/js/main.4c36fae6.chunk.js",
+    "main.js.map": "/static/react/static/js/main.4c36fae6.chunk.js.map",
+    "runtime-main.js": "/static/react/static/js/runtime-main.b7b24584.js",
+    "runtime-main.js.map": "/static/react/static/js/runtime-main.b7b24584.js.map",
+    "static/js/2.bfda608d.chunk.js": "/static/react/static/js/2.bfda608d.chunk.js",
+    "static/js/2.bfda608d.chunk.js.map": "/static/react/static/js/2.bfda608d.chunk.js.map",
+    "static/js/3.5790e59a.chunk.js": "/static/react/static/js/3.5790e59a.chunk.js",
+    "static/js/3.5790e59a.chunk.js.map": "/static/react/static/js/3.5790e59a.chunk.js.map",
+    "../../templates/index.html": "/static/react/../../templates/index.html",
+    "static/css/main.86f14db1.chunk.css.map": "/static/react/static/css/main.86f14db1.chunk.css.map",
+    "static/js/2.bfda608d.chunk.js.LICENSE.txt": "/static/react/static/js/2.bfda608d.chunk.js.LICENSE.txt",
+    "static/media/ChainTrackerLogo.c1262269.PNG": "/static/react/static/media/ChainTrackerLogo.c1262269.PNG",
+    "static/media/merkleTree.6fb4719e.png": "/static/react/static/media/merkleTree.6fb4719e.png",
+    "static/media/sequenceDiagram.a25cf933.png": "/static/react/static/media/sequenceDiagram.a25cf933.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b7b24584.js",
+    "static/js/2.bfda608d.chunk.js",
+    "static/css/main.86f14db1.chunk.css",
+    "static/js/main.4c36fae6.chunk.js"
+  ]
+}
